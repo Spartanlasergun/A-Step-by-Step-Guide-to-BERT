@@ -13,6 +13,8 @@ The google collaboratory notebook - 'A_Step_by_Step_Guide_To_BERT.ipynb' - gives
 * generating the embeddings
 * and, performing text classification using logistic regression
 
+The dataset used for the walktrough is contained in the file 'data.csv'.
+
 -----
 ### Other Resources
 
